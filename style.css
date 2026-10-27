@@ -22,11 +22,10 @@ body {
     border-radius: 20px;
     width: 300px;
     box-shadow: 0px 1px 1px #000;
-    z-index: 99999;
 }
 
 .profissao {
-    margin-top: -15px;
+    margin-top: 10px;
     color: gray;
 
 }
@@ -61,7 +60,6 @@ body {
     color: #1ec81e;
     border-radius: 10px;
     padding: 5px;
-    margin-top: 25px;
 }
 
 .cards {
@@ -70,4 +68,5 @@ body {
 
 .bio {
     margin-top: 25px;
+    margin-bottom: 20px;
 }
